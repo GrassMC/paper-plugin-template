@@ -1,0 +1,3 @@
+dependencies {
+    paperLib(kotlin("stdlib"))
+}

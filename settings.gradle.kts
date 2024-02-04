@@ -4,7 +4,7 @@ import io.github.tozydev.fastmodule.modules.ModuleType
 import io.github.tozydev.fastmodule.modules.settings.PaperSettings
 
 plugins {
-    id("io.github.tozydev.fast-module") version "0.5.1"
+    id("io.github.tozydev.fast-module") version "0.6.0"
 }
 
 rootProject.name = "paper-plugin-template"

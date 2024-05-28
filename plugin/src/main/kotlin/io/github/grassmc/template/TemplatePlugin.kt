@@ -1,4 +1,4 @@
-package io.github.grassmc.template.plugin
+package io.github.grassmc.template
 
 import org.bukkit.plugin.java.JavaPlugin
 

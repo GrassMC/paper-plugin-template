@@ -1,4 +1,0 @@
-[plugins]
-waddle-kotlin = { id = "io.github.grassmc.waddle-kotlin" }
-waddle-paper = { id = "io.github.grassmc.waddle-paper" }
-waddle-shadow = { id = "io.github.grassmc.waddle-shadow" }

@@ -1,5 +1,5 @@
 plugins {
-    alias(libs.plugins.waddle.kotlin)
-    alias(libs.plugins.waddle.paper)
-    alias(libs.plugins.waddle.shadow)
+    id("io.github.grassmc.waddle-kotlin")
+    id("io.github.grassmc.waddle-paper")
+    id("io.github.grassmc.waddle-shadow")
 }

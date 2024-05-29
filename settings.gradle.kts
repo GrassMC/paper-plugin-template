@@ -8,7 +8,7 @@ pluginManagement {
 }
 
 plugins {
-    id("io.github.grassmc.waddle") version "1.0.1"
+    id("io.github.grassmc.waddle") version "1.1.0"
 }
 
 rootProject.name = "paper-plugin-template"

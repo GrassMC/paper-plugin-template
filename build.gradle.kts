@@ -1,5 +1,5 @@
 plugins {
-    id("io.github.grassmc.waddle-kotlin") apply false
-    id("io.github.grassmc.waddle-paper") apply false
-    id("io.github.grassmc.waddle-shadow") apply false
+    alias(waddle.plugins.kotlin) apply false
+    alias(waddle.plugins.paper) apply false
+    alias(waddle.plugins.shadow) apply false
 }
